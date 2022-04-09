@@ -99,3 +99,7 @@ Some BF4 guns on the ARC9 base
 - M82A3 
 - AMR-2 
 - Rorsch Mk-1 
+# LMGs
+- M60
+- RPK12
+- PKM
