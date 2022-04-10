@@ -1,0 +1,21 @@
+AK-12:
+- AKU-12
+- SVD-12
+- DBV-12
+- RPK-12
+- AEK-971
+- AS VAL
+
+M4:
+- M16A4
+- M416
+
+M1911:
+- Compact 45
+- MP443
+- P226
+- FN57
+- CZ75
+- M9
+- 93R
+- G18
